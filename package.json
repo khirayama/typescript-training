@@ -1,0 +1,22 @@
+{
+  "name": "typescript-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "typings": "typings",
+    "compile": "tsc",
+    "bundle": "webpack"
+  },
+  "keywords": [],
+  "author": "khirayama",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "ts-loader": "^2.1.0",
+    "typescript": "^2.3.4",
+    "typings": "^2.1.1",
+    "webpack": "^2.6.1"
+  }
+}
